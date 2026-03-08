@@ -181,6 +181,21 @@ model_performance_analysis.csv
 
 
 ---
+# 📂 Dataset
+
+This project uses publicly available X-ray datasets for bone fracture detection and classification.
+
+Due to GitHub file size limitations, the datasets are not included in this repository.
+
+Users must download the datasets manually.
+
+Dataset Sources
+
+The datasets used in this project are available on:
+
+https://www.kaggle.com/datasets/amohankumar/bone-break-classifier-dataset
+
+https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data
 
 # 💻 Installation
 
@@ -204,7 +219,6 @@ streamlit run app.py
 
 Upload an X-ray image and the AI system will analyze it.
 
-📷 Example Output
 AI RADIOLOGY REPORT
 
 Result: Fracture Detected
